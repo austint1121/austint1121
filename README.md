@@ -19,7 +19,7 @@ from King County in Washington state. Using this data, we used linear regression
 the city of seattle on which features of a home will increase the property value the most.
 
 ## [Venus Analytic's Movie Analysis](https://github.com/austint1121/VenusMovieAnalysis)
-<img src="https://github.com/austint1121/VenusMovieAnalysis/blob/main/Images/Typical%20Return%20on%20Investment%20by%20Genre.png">
+<img src="https://github.com/austint1121/VenusMovieAnalysis/blob/main/Images/Typical%20Return%20on%20Investment%20by%20Genre.png" width="100%" height="75%">
 The goal of this project is to provide actionable insights to the head of Microsoft's new fictional movie studio.
 We used data from Box Office Mojo, IMDB, Rotten Tomatoes, TheMovieDB, and The Numbers. After analyzing the data the
 group decided to recommend a genre of movie to make, which month to release the movie in, and how long the movie should be.
