@@ -22,3 +22,8 @@ We used data from Box Office Mojo, IMDB, Rotten Tomatoes, TheMovieDB, and The Nu
 group decided to recommend a genre of movie to make, which month to release the movie in, and how long the movie should be.
 
 ## Articles
+
+- [BakeryScan and Cyto-AiSCAN](https://matthewturner-irl.medium.com/bakeryscan-and-cyto-aiscan-52475b3cb779)
+- [Navigating HTM-Hell with Selenium](https://matthewturner-irl.medium.com/navigating-htm-hell-with-selenium-5cb1b4c2e2a7)
+- [Customized Object Detection Using Tensorflow](https://matthewturner-irl.medium.com/customized-object-detection-using-tensorflow-14dd9fa6dfb6)
+- [An Introduction to Adversarial Attacks](https://matthewturner-irl.medium.com/an-introduction-to-adversarial-attacks-16395579c9f6)
