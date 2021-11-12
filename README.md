@@ -6,6 +6,7 @@ you have any questions!
 
 
 ### [US Vaccination Predictions](https://github.com/austint1121/Flatiron_GOATS_Vaccination_Prediction)
+<img src="https://github.com/austint1121/Flatiron_GOATS_Vaccination_Prediction/blob/main/Images/goat-vaccination.jpg" width="100%" height="100%">
 The fictional mayor of the fictional city, Goat city, TN, is ordering Covid vaccines, and is fully aware that not
 everyone will choose to get vaccinated. Goat city wants to know how many Covid vaccines they should be ordering. They
 hired my team, the Flatiron GOATS, to assist them with this task.
