@@ -18,7 +18,7 @@ everyone will choose to get vaccinated. Goat city wants to know how many Covid v
 hired my team, the Flatiron GOATS, to assist them with this task.
 
 ## [King's County Housing Project](https://github.com/Jyve00/King_County_Housing)
-<img src="https://github.com/Jyve00/King_County_Housing/blob/main/visuals/KCA.jpg">
+<img src="https://user-images.githubusercontent.com/75384559/136581557-5d9179a3-dc1b-4f97-ac4c-28d4719a06d4.png">
 The city of Seattle is looking to improve low property value neighborhoods. They want to know which neighborhoods would
 benefit the most from the grants, and what the grants should be used for. We used a dataset of individual houses
 from King County in Washington state. Using this data, we used linear regression modeling to make recommendations to
