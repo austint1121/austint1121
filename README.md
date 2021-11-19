@@ -3,7 +3,7 @@ Below is a list of all my significant projects, and a list of articles I've writ
 you have any questions!
 
 # Projects
-## [Dignostic Imaging Pneumonia Classification](https://github.com/austint1121/OES-PneumoniaClassification)
+## [Diagnostic Imaging Pneumonia Classification](https://github.com/austint1121/OES-PneumoniaClassification)
 <img src="https://github.com/austint1121/OES-PneumoniaClassification/blob/main/Images/banner_Image.jpg" width="100%" height="60%">
 The (fictional) Cyclops Hospital Network (CHN) has 31 locations where pediatric patients who potentially have viral or bacterial pneumonia may seek diagnosis and care. Given certain symptoms and the severity of those symptoms, many of those patients will undergo X-ray imaging of the chest.
 Given that a CHN radiologist has a maximum of 12 hours to review these images and the initial assessment of the imaging
