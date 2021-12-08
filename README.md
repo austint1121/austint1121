@@ -3,6 +3,21 @@ Below is a list of all my significant projects, and a list of articles I've writ
 you have any questions!
 
 # Projects
+
+## [Undiagnosed ADHD Classification](https://github.com/austint1121/Undiagnosed-ADHD-Identification)
+<img src="https://github.com/austint1121/Undiagnosed-ADHD-Identification/blob/main/Images/title_card.jpg" width="100%" height="50%">
+
+The [NSCH](https://www.census.gov/programs-surveys/nsch/data/datasets.html) is a household survey that produces national
+and state-level data on the physical and emotional health of children 0 - 17 years old in the United States.
+
+In the NSCH survey data is a question that asks:
+
+- Has a doctor or other health care provider EVER told you that this child has… Attention Deficit Disorder or
+  Attention-Deficit/Hyperactivity Disorder, that is, ADD or ADHD?
+
+In this project, I create a tool that can give the probability that a child from the NSCH survey has ADHD, **but is
+undiagnosed**.
+
 ## [Diagnostic Imaging Pneumonia Classification](https://github.com/austint1121/OES-PneumoniaClassification)
 <img src="https://github.com/austint1121/OES-PneumoniaClassification/blob/main/Images/banner_Image.jpg" width="100%" height="60%">
 The (fictional) Cyclops Hospital Network (CHN) has 31 locations where pediatric patients who potentially have viral or bacterial pneumonia may seek diagnosis and care. Given certain symptoms and the severity of those symptoms, many of those patients will undergo X-ray imaging of the chest.
